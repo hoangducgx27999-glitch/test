@@ -1,0 +1,7 @@
+{
+  "vipEmails": [
+    "vip1@gmail.com",
+    "vip2@gmail.com"
+  ],
+  "note": "Thêm email người dùng VIP vào mảng vipEmails sau khi xác nhận thanh toán"
+}
