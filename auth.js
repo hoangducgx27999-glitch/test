@@ -31,7 +31,8 @@ const avatar = document.getElementById("avatar");
 // VIP list (thu tiền thủ công)
 const VIP_EMAILS = [
   "vip1@gmail.com",
-  "vip2@gmail.com"
+  "vip2@gmail.com",
+  "hoangducgx27999@gmail.com"
 ];
 
 function isVIP(user) {
